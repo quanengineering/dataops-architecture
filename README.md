@@ -6,3 +6,5 @@ Diagrams are generated using [Mingrammer's Diagrams](https://diagrams.mingrammer
 
 Requirements:
 * Latency: no more than 5 minutes
+
+![Case Study 1](./case_study_1.png)
